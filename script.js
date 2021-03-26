@@ -30,7 +30,7 @@ let spawnRate = 1500;
 // Checks when to start score count
 let scoreCountStar = false;
 // Checks when to start score count
-let winGameScore = 20000;
+let winGameScore = 2000;
 
 
 //Create all images
